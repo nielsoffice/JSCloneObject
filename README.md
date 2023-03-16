@@ -1,0 +1,2 @@
+# JSCloneObject
+JavaScript clone object 
