@@ -1,5 +1,6 @@
 # JSCloneObject
 JavaScript clone object 
+<br> Reference: https://medium.com/@dtinth/immutable-js-persistent-data-structures-and-structural-sharing-6d163fbd73d2
 
 ```JS
 const obj = {name: 'Andrei'}
